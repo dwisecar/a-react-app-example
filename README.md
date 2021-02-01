@@ -1,5 +1,5 @@
 # A React App Example
-
+ 
 ## Overview
 
 Before we dive in and start working on specific parts of a React project, let's
